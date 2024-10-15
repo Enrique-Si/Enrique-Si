@@ -2,8 +2,7 @@
 
 - 👷🏼‍♂️ Perfil novo em construção...
 - 👨🏻‍💻 Estudando Gestão de Tecnologia da Informação.
-- 📧 Contate-me no e-mail: enriquev.silveira@gmail.com
-- 😄 Pronouns: ele/dele.
+
 
 <div>
   <a href="https://github.com/Enrique-Si">
