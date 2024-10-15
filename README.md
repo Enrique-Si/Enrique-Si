@@ -1,4 +1,4 @@
-## E ai, eu sou o Enrique! 👋
+## GitHub Enrique! 👋
 
 - 👷🏼‍♂️ Perfil novo em construção...
 - 👨🏻‍💻 Estudando Gestão de Tecnologia da Informação.
