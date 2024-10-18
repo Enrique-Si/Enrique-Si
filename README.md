@@ -27,9 +27,8 @@
 - **🐍 Python**: Focado no desenvolvimento de projetos práticos, aprendizado de estruturas de dados, automação e aplicações em IoT.
 - **🗄️ SQL**: Aperfeiçoamento contínuo em modelagem de banco de dados, criação de queries avançadas e manipulação de dados relacionais. 
 
-![Snake animation](https://github.com/Enrique-Si/Enrique-Si/blob/output/github-contribution-grid-snake.svg)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Enrique-Si)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stars](https://img.shields.io/github/stars/Enrique-Si?style=social)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Enrique-Si&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
